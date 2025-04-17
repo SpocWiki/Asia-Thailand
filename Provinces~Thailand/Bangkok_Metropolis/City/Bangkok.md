@@ -14,17 +14,17 @@ isDeleted: false
 confidential: public
 has_id_wikidata: Q1861
 twinned_administrative_body:
-- "[[/_Standards/WikiData/WD~Aichi Prefecture,80434]]"
-- "[[/_Standards/WikiData/WD~Fukuoka Prefecture,123258]]"
+- "[[/_Standards/WikiData/WD~Aichi_Prefecture,80434]]"
+- "[[/_Standards/WikiData/WD~Fukuoka_Prefecture,123258]]"
 - '[[/_Standards/WikiData/WD~Istanbul,406]]'
 - '[[/_Standards/WikiData/WD~Moscow,649]]'
-- "[[/_Standards/WikiData/WD~Saint Petersburg,656]]"
+- "[[/_Standards/WikiData/WD~Saint_Petersburg,656]]"
 - '[[/_Standards/WikiData/WD~Lausanne,807]]'
 - '[[/_Standards/WikiData/WD~Beijing,956]]'
 - '[[/_Standards/WikiData/WD~Manila,1461]]'
 - '[[/_Standards/WikiData/WD~Astana,1520]]'
 - '[[/_Standards/WikiData/WD~Budapest,1781]]'
-- "[[/_Standards/WikiData/WD~Phnom Penh,1850]]"
+- "[[/_Standards/WikiData/WD~Phnom_Penh,1850]]"
 - '[[/_Standards/WikiData/WD~Hanoi,1858]]'
 - '[[/_Standards/WikiData/WD~Tehran,3616]]'
 - '[[/_Standards/WikiData/WD~Jakarta,3630]]'
@@ -38,59 +38,59 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Busan,16520]]'
 - '[[/_Standards/WikiData/WD~Guangzhou,16572]]'
 - '[[/_Standards/WikiData/WD~Fukuoka,26600]]'
-- "[[/_Standards/WikiData/WD~Washington, D.C.,61]]"
+- "[[/_Standards/WikiData/WD~Washington,_D.C.,61]]"
 - '[[/_Standards/WikiData/WD~Brisbane,34932]]'
 - '[[/_Standards/WikiData/WD~Shandong,43407]]'
 - '[[/_Standards/WikiData/WD~Chaozhou,59227]]'
-- "[[/_Standards/WikiData/WD~George Town,61092]]"
-located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Chao Phraya River,118850]]"
+- "[[/_Standards/WikiData/WD~George_Town,61092]]"
+located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Chao_Phraya_River,118850]]"
 instance_of:
 - '[[/_Standards/WikiData/WD~megacity,174844]]'
-- "[[/_Standards/WikiData/WD~big city,1549591]]"
-- "[[/_Standards/WikiData/WD~first-level administrative division,10864048]]"
-- "[[/_Standards/WikiData/WD~special administrative area of Thailand,15634695]]"
-- "[[/_Standards/WikiData/WD~largest city,51929311]]"
-- "[[/_Standards/WikiData/WD~national capital,108178728]]"
+- "[[/_Standards/WikiData/WD~big_city,1549591]]"
+- "[[/_Standards/WikiData/WD~first-level_administrative_division,10864048]]"
+- "[[/_Standards/WikiData/WD~special_administrative_area_of_Thailand,15634695]]"
+- "[[/_Standards/WikiData/WD~largest_city,51929311]]"
+- "[[/_Standards/WikiData/WD~national_capital,108178728]]"
 - '[[/_Standards/WikiData/WD~city,515]]'
 shares_border_with:
 - '[[/_Standards/WikiData/WD~Nonthaburi,242932]]'
-- "[[/_Standards/WikiData/WD~Samut Prakan,271529]]"
-- "[[/_Standards/WikiData/WD~Samut Sakhon,334686]]"
-- "[[/_Standards/WikiData/WD~Nakhon Pathom,334841]]"
+- "[[/_Standards/WikiData/WD~Samut_Prakan,271529]]"
+- "[[/_Standards/WikiData/WD~Samut_Sakhon,334686]]"
+- "[[/_Standards/WikiData/WD~Nakhon_Pathom,334841]]"
 - '[[/_Standards/WikiData/WD~Chachoengsao,334906]]'
-- "[[/_Standards/WikiData/WD~Pathum Thani,459748]]"
-founded_by: "[[/_Standards/WikiData/WD~Buddha Yodfa Chulaloke,310992]]"
+- "[[/_Standards/WikiData/WD~Pathum_Thani,459748]]"
+founded_by: "[[/_Standards/WikiData/WD~Buddha_Yodfa_Chulaloke,310992]]"
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[/_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[/_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[/_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 occupant: '[[/_Standards/WikiData/WD~VG,1139355]]'
 member_of:
-- "[[/_Standards/WikiData/WD~Creative Cities Network,1139352]]"
-- "[[/_Standards/WikiData/WD~World Tourism Cities Federation,67652870]]"
+- "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
+- "[[/_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]"
 capital_of:
-- "[[/_Standards/WikiData/WD~Rattanakosin Kingdom,1155700]]"
+- "[[/_Standards/WikiData/WD~Rattanakosin_Kingdom,1155700]]"
 - '[[/_Standards/WikiData/WD~Thailand,869]]'
 owner_of:
-- "[[/_Standards/WikiData/WD~Rajadamnern Stadium,2631915]]"
-- "[[/_Standards/WikiData/WD~Indoor Stadium Huamark,4923737]]"
+- "[[/_Standards/WikiData/WD~Rajadamnern_Stadium,2631915]]"
+- "[[/_Standards/WikiData/WD~Indoor_Stadium_Huamark,4923737]]"
 language_used:
 - '[[/_Standards/WikiData/WD~Phuan,3915665]]'
 - '[[/_Standards/WikiData/WD~Blang,4925096]]'
-- "[[/_Standards/WikiData/WD~Thai Sign Language,7709156]]"
-list_of_monuments: "[[/_Standards/WikiData/WD~list of ancient monuments in Bangkok,13019983]]"
-legislative_body: "[[/_Standards/WikiData/WD~Bangkok Metropolitan Council,13022003]]"
+- "[[/_Standards/WikiData/WD~Thai_Sign_Language,7709156]]"
+list_of_monuments: "[[/_Standards/WikiData/WD~list_of_ancient_monuments_in_Bangkok,13019983]]"
+legislative_body: "[[/_Standards/WikiData/WD~Bangkok_Metropolitan_Council,13022003]]"
 different_from: '[[/_Standards/WikiData/WD~Bangkok,13542934]]'
-head_of_government: "[[/_Standards/WikiData/WD~Chadchart Sittipunt,16307757]]"
+head_of_government: "[[/_Standards/WikiData/WD~Chadchart_Sittipunt,16307757]]"
 permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q21286903,21286903]]'
-Wikimedia_outline: "[[/_Standards/WikiData/WD~outline of Bangkok,28453764]]"
-open_data_portal: "[[/_Standards/WikiData/WD~Bangkok open data,97317670]]"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy of Bangkok,106020433]]"
+Wikimedia_outline: "[[/_Standards/WikiData/WD~outline_of_Bangkok,28453764]]"
+open_data_portal: "[[/_Standards/WikiData/WD~Bangkok_open_data,97317670]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Bangkok,106020433]]"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Earth%20Timelapse-%20Bangkok%2C%20Thailand.webm"
 ISNI: 0000000122149998
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bangkok%20Montage%202024.jpg"
