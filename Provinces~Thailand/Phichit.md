@@ -40,11 +40,18 @@ markerFolder: ./Phichit/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phichit|Phichit]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phichit.public|Phichit.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phichit.internal|Phichit.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phichit.protect|Phichit.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phichit.private|Phichit.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phichit.personal|Phichit.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phichit.secret|Phichit.secret]] 
+
+### #is_/same_as :: [Phichit](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phichit.md) 
+
+### #is_/same_as :: [Phichit.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phichit.public.md) 
+
+### #is_/same_as :: [Phichit.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phichit.internal.md) 
+
+### #is_/same_as :: [Phichit.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phichit.protect.md) 
+
+### #is_/same_as :: [Phichit.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phichit.private.md) 
+
+### #is_/same_as :: [Phichit.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phichit.personal.md) 
+
+### #is_/same_as :: [Phichit.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phichit.secret.md)
 

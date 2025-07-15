@@ -40,11 +40,18 @@ markerFolder: ./Lop_Buri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri|Lop_Buri]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.public|Lop_Buri.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.internal|Lop_Buri.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.protect|Lop_Buri.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.private|Lop_Buri.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.personal|Lop_Buri.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lop_Buri.secret|Lop_Buri.secret]] 
+
+### #is_/same_as :: [Lop_Buri](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lop_Buri.md) 
+
+### #is_/same_as :: [Lop_Buri.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lop_Buri.public.md) 
+
+### #is_/same_as :: [Lop_Buri.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lop_Buri.internal.md) 
+
+### #is_/same_as :: [Lop_Buri.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lop_Buri.protect.md) 
+
+### #is_/same_as :: [Lop_Buri.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lop_Buri.private.md) 
+
+### #is_/same_as :: [Lop_Buri.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lop_Buri.personal.md) 
+
+### #is_/same_as :: [Lop_Buri.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lop_Buri.secret.md)
 

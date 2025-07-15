@@ -40,11 +40,18 @@ markerFolder: ./Uthai_Thani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani|Uthai_Thani]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.public|Uthai_Thani.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.internal|Uthai_Thani.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.protect|Uthai_Thani.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.private|Uthai_Thani.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.personal|Uthai_Thani.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.secret|Uthai_Thani.secret]] 
+
+### #is_/same_as :: [Uthai_Thani](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.md) 
+
+### #is_/same_as :: [Uthai_Thani.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.public.md) 
+
+### #is_/same_as :: [Uthai_Thani.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.internal.md) 
+
+### #is_/same_as :: [Uthai_Thani.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.protect.md) 
+
+### #is_/same_as :: [Uthai_Thani.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.private.md) 
+
+### #is_/same_as :: [Uthai_Thani.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.personal.md) 
+
+### #is_/same_as :: [Uthai_Thani.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Phetchabun/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchabun|Phetchabun]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchabun.public|Phetchabun.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchabun.internal|Phetchabun.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchabun.protect|Phetchabun.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchabun.private|Phetchabun.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchabun.personal|Phetchabun.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchabun.secret|Phetchabun.secret]] 
+
+### #is_/same_as :: [Phetchabun](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchabun.md) 
+
+### #is_/same_as :: [Phetchabun.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchabun.public.md) 
+
+### #is_/same_as :: [Phetchabun.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchabun.internal.md) 
+
+### #is_/same_as :: [Phetchabun.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchabun.protect.md) 
+
+### #is_/same_as :: [Phetchabun.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchabun.private.md) 
+
+### #is_/same_as :: [Phetchabun.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchabun.personal.md) 
+
+### #is_/same_as :: [Phetchabun.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchabun.secret.md)
 

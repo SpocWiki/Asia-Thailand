@@ -40,11 +40,18 @@ markerFolder: ./Ubon_Ratchathani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani|Ubon_Ratchathani]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.public|Ubon_Ratchathani.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.internal|Ubon_Ratchathani.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.protect|Ubon_Ratchathani.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.private|Ubon_Ratchathani.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.personal|Ubon_Ratchathani.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.secret|Ubon_Ratchathani.secret]] 
+
+### #is_/same_as :: [Ubon_Ratchathani](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ubon_Ratchathani.md) 
+
+### #is_/same_as :: [Ubon_Ratchathani.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ubon_Ratchathani.public.md) 
+
+### #is_/same_as :: [Ubon_Ratchathani.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ubon_Ratchathani.internal.md) 
+
+### #is_/same_as :: [Ubon_Ratchathani.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ubon_Ratchathani.protect.md) 
+
+### #is_/same_as :: [Ubon_Ratchathani.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ubon_Ratchathani.private.md) 
+
+### #is_/same_as :: [Ubon_Ratchathani.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ubon_Ratchathani.personal.md) 
+
+### #is_/same_as :: [Ubon_Ratchathani.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ubon_Ratchathani.secret.md)
 

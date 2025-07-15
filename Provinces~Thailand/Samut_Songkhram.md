@@ -40,11 +40,18 @@ markerFolder: ./Samut_Songkhram/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram|Samut_Songkhram]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.public|Samut_Songkhram.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.internal|Samut_Songkhram.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.protect|Samut_Songkhram.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.private|Samut_Songkhram.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.personal|Samut_Songkhram.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.secret|Samut_Songkhram.secret]] 
+
+### #is_/same_as :: [Samut_Songkhram](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Songkhram.md) 
+
+### #is_/same_as :: [Samut_Songkhram.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Songkhram.public.md) 
+
+### #is_/same_as :: [Samut_Songkhram.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Songkhram.internal.md) 
+
+### #is_/same_as :: [Samut_Songkhram.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Songkhram.protect.md) 
+
+### #is_/same_as :: [Samut_Songkhram.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Songkhram.private.md) 
+
+### #is_/same_as :: [Samut_Songkhram.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Songkhram.personal.md) 
+
+### #is_/same_as :: [Samut_Songkhram.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Songkhram.secret.md)
 

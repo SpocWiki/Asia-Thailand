@@ -40,11 +40,18 @@ markerFolder: ./Bangkok_Metropolis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bangkok_Metropolis|Bangkok_Metropolis]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bangkok_Metropolis.public|Bangkok_Metropolis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bangkok_Metropolis.internal|Bangkok_Metropolis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bangkok_Metropolis.protect|Bangkok_Metropolis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bangkok_Metropolis.private|Bangkok_Metropolis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bangkok_Metropolis.personal|Bangkok_Metropolis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bangkok_Metropolis.secret|Bangkok_Metropolis.secret]] 
+
+### #is_/same_as :: [Bangkok_Metropolis](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis.md) 
+
+### #is_/same_as :: [Bangkok_Metropolis.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis.public.md) 
+
+### #is_/same_as :: [Bangkok_Metropolis.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis.internal.md) 
+
+### #is_/same_as :: [Bangkok_Metropolis.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis.protect.md) 
+
+### #is_/same_as :: [Bangkok_Metropolis.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis.private.md) 
+
+### #is_/same_as :: [Bangkok_Metropolis.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis.personal.md) 
+
+### #is_/same_as :: [Bangkok_Metropolis.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis.secret.md)
 

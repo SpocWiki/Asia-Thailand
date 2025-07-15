@@ -40,11 +40,18 @@ markerFolder: ./Songkhla/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Songkhla|Songkhla]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Songkhla.public|Songkhla.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Songkhla.internal|Songkhla.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Songkhla.protect|Songkhla.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Songkhla.private|Songkhla.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Songkhla.personal|Songkhla.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Songkhla.secret|Songkhla.secret]] 
+
+### #is_/same_as :: [Songkhla](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Songkhla.md) 
+
+### #is_/same_as :: [Songkhla.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Songkhla.public.md) 
+
+### #is_/same_as :: [Songkhla.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Songkhla.internal.md) 
+
+### #is_/same_as :: [Songkhla.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Songkhla.protect.md) 
+
+### #is_/same_as :: [Songkhla.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Songkhla.private.md) 
+
+### #is_/same_as :: [Songkhla.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Songkhla.personal.md) 
+
+### #is_/same_as :: [Songkhla.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Songkhla.secret.md)
 

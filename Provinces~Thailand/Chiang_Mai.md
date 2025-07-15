@@ -40,11 +40,18 @@ markerFolder: ./Chiang_Mai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai|Chiang_Mai]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.public|Chiang_Mai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.internal|Chiang_Mai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.protect|Chiang_Mai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.private|Chiang_Mai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.personal|Chiang_Mai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.secret|Chiang_Mai.secret]] 
+
+### #is_/same_as :: [Chiang_Mai](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Mai.md) 
+
+### #is_/same_as :: [Chiang_Mai.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Mai.public.md) 
+
+### #is_/same_as :: [Chiang_Mai.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Mai.internal.md) 
+
+### #is_/same_as :: [Chiang_Mai.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Mai.protect.md) 
+
+### #is_/same_as :: [Chiang_Mai.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Mai.private.md) 
+
+### #is_/same_as :: [Chiang_Mai.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Mai.personal.md) 
+
+### #is_/same_as :: [Chiang_Mai.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Mai.secret.md)
 

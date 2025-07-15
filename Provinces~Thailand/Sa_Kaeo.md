@@ -40,11 +40,18 @@ markerFolder: ./Sa_Kaeo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sa_Kaeo|Sa_Kaeo]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sa_Kaeo.public|Sa_Kaeo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sa_Kaeo.internal|Sa_Kaeo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sa_Kaeo.protect|Sa_Kaeo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sa_Kaeo.private|Sa_Kaeo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sa_Kaeo.personal|Sa_Kaeo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sa_Kaeo.secret|Sa_Kaeo.secret]] 
+
+### #is_/same_as :: [Sa_Kaeo](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sa_Kaeo.md) 
+
+### #is_/same_as :: [Sa_Kaeo.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sa_Kaeo.public.md) 
+
+### #is_/same_as :: [Sa_Kaeo.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sa_Kaeo.internal.md) 
+
+### #is_/same_as :: [Sa_Kaeo.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sa_Kaeo.protect.md) 
+
+### #is_/same_as :: [Sa_Kaeo.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sa_Kaeo.private.md) 
+
+### #is_/same_as :: [Sa_Kaeo.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sa_Kaeo.personal.md) 
+
+### #is_/same_as :: [Sa_Kaeo.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sa_Kaeo.secret.md)
 

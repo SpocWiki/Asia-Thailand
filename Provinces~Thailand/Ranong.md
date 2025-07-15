@@ -40,11 +40,18 @@ markerFolder: ./Ranong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ranong|Ranong]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ranong.public|Ranong.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ranong.internal|Ranong.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ranong.protect|Ranong.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ranong.private|Ranong.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ranong.personal|Ranong.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ranong.secret|Ranong.secret]] 
+
+### #is_/same_as :: [Ranong](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ranong.md) 
+
+### #is_/same_as :: [Ranong.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ranong.public.md) 
+
+### #is_/same_as :: [Ranong.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ranong.internal.md) 
+
+### #is_/same_as :: [Ranong.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ranong.protect.md) 
+
+### #is_/same_as :: [Ranong.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ranong.private.md) 
+
+### #is_/same_as :: [Ranong.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ranong.personal.md) 
+
+### #is_/same_as :: [Ranong.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ranong.secret.md)
 

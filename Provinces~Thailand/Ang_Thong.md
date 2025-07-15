@@ -40,11 +40,18 @@ markerFolder: ./Ang_Thong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ang_Thong|Ang_Thong]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ang_Thong.public|Ang_Thong.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ang_Thong.internal|Ang_Thong.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ang_Thong.protect|Ang_Thong.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ang_Thong.private|Ang_Thong.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ang_Thong.personal|Ang_Thong.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ang_Thong.secret|Ang_Thong.secret]] 
+
+### #is_/same_as :: [Ang_Thong](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ang_Thong.md) 
+
+### #is_/same_as :: [Ang_Thong.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ang_Thong.public.md) 
+
+### #is_/same_as :: [Ang_Thong.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ang_Thong.internal.md) 
+
+### #is_/same_as :: [Ang_Thong.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ang_Thong.protect.md) 
+
+### #is_/same_as :: [Ang_Thong.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ang_Thong.private.md) 
+
+### #is_/same_as :: [Ang_Thong.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ang_Thong.personal.md) 
+
+### #is_/same_as :: [Ang_Thong.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ang_Thong.secret.md)
 

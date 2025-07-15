@@ -40,11 +40,18 @@ markerFolder: ./Trat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Trat|Trat]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Trat.public|Trat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Trat.internal|Trat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Trat.protect|Trat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Trat.private|Trat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Trat.personal|Trat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Trat.secret|Trat.secret]] 
+
+### #is_/same_as :: [Trat](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Trat.md) 
+
+### #is_/same_as :: [Trat.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Trat.public.md) 
+
+### #is_/same_as :: [Trat.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Trat.internal.md) 
+
+### #is_/same_as :: [Trat.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Trat.protect.md) 
+
+### #is_/same_as :: [Trat.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Trat.private.md) 
+
+### #is_/same_as :: [Trat.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Trat.personal.md) 
+
+### #is_/same_as :: [Trat.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Trat.secret.md)
 

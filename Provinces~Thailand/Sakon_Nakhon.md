@@ -40,11 +40,18 @@ markerFolder: ./Sakon_Nakhon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sakon_Nakhon|Sakon_Nakhon]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sakon_Nakhon.public|Sakon_Nakhon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sakon_Nakhon.internal|Sakon_Nakhon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sakon_Nakhon.protect|Sakon_Nakhon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sakon_Nakhon.private|Sakon_Nakhon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sakon_Nakhon.personal|Sakon_Nakhon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sakon_Nakhon.secret|Sakon_Nakhon.secret]] 
+
+### #is_/same_as :: [Sakon_Nakhon](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.md) 
+
+### #is_/same_as :: [Sakon_Nakhon.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.public.md) 
+
+### #is_/same_as :: [Sakon_Nakhon.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.internal.md) 
+
+### #is_/same_as :: [Sakon_Nakhon.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.protect.md) 
+
+### #is_/same_as :: [Sakon_Nakhon.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.private.md) 
+
+### #is_/same_as :: [Sakon_Nakhon.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.personal.md) 
+
+### #is_/same_as :: [Sakon_Nakhon.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.secret.md)
 

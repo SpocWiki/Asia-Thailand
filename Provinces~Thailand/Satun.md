@@ -40,11 +40,18 @@ markerFolder: ./Satun/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Satun|Satun]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Satun.public|Satun.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Satun.internal|Satun.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Satun.protect|Satun.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Satun.private|Satun.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Satun.personal|Satun.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Satun.secret|Satun.secret]] 
+
+### #is_/same_as :: [Satun](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Satun.md) 
+
+### #is_/same_as :: [Satun.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Satun.public.md) 
+
+### #is_/same_as :: [Satun.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Satun.internal.md) 
+
+### #is_/same_as :: [Satun.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Satun.protect.md) 
+
+### #is_/same_as :: [Satun.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Satun.private.md) 
+
+### #is_/same_as :: [Satun.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Satun.personal.md) 
+
+### #is_/same_as :: [Satun.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Satun.secret.md)
 

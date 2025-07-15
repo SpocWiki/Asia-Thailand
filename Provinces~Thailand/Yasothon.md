@@ -40,11 +40,18 @@ markerFolder: ./Yasothon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Yasothon|Yasothon]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Yasothon.public|Yasothon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Yasothon.internal|Yasothon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Yasothon.protect|Yasothon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Yasothon.private|Yasothon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Yasothon.personal|Yasothon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Yasothon.secret|Yasothon.secret]] 
+
+### #is_/same_as :: [Yasothon](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yasothon.md) 
+
+### #is_/same_as :: [Yasothon.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yasothon.public.md) 
+
+### #is_/same_as :: [Yasothon.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yasothon.internal.md) 
+
+### #is_/same_as :: [Yasothon.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yasothon.protect.md) 
+
+### #is_/same_as :: [Yasothon.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yasothon.private.md) 
+
+### #is_/same_as :: [Yasothon.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yasothon.personal.md) 
+
+### #is_/same_as :: [Yasothon.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yasothon.secret.md)
 

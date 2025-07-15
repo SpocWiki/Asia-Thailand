@@ -40,11 +40,18 @@ markerFolder: ./Chumphon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chumphon|Chumphon]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chumphon.public|Chumphon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chumphon.internal|Chumphon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chumphon.protect|Chumphon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chumphon.private|Chumphon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chumphon.personal|Chumphon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chumphon.secret|Chumphon.secret]] 
+
+### #is_/same_as :: [Chumphon](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chumphon.md) 
+
+### #is_/same_as :: [Chumphon.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chumphon.public.md) 
+
+### #is_/same_as :: [Chumphon.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chumphon.internal.md) 
+
+### #is_/same_as :: [Chumphon.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chumphon.protect.md) 
+
+### #is_/same_as :: [Chumphon.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chumphon.private.md) 
+
+### #is_/same_as :: [Chumphon.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chumphon.personal.md) 
+
+### #is_/same_as :: [Chumphon.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chumphon.secret.md)
 

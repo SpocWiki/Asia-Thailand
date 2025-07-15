@@ -40,11 +40,18 @@ markerFolder: ./Suphan_Buri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Suphan_Buri|Suphan_Buri]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Suphan_Buri.public|Suphan_Buri.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Suphan_Buri.internal|Suphan_Buri.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Suphan_Buri.protect|Suphan_Buri.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Suphan_Buri.private|Suphan_Buri.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Suphan_Buri.personal|Suphan_Buri.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Suphan_Buri.secret|Suphan_Buri.secret]] 
+
+### #is_/same_as :: [Suphan_Buri](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Suphan_Buri.md) 
+
+### #is_/same_as :: [Suphan_Buri.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Suphan_Buri.public.md) 
+
+### #is_/same_as :: [Suphan_Buri.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Suphan_Buri.internal.md) 
+
+### #is_/same_as :: [Suphan_Buri.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Suphan_Buri.protect.md) 
+
+### #is_/same_as :: [Suphan_Buri.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Suphan_Buri.private.md) 
+
+### #is_/same_as :: [Suphan_Buri.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Suphan_Buri.personal.md) 
+
+### #is_/same_as :: [Suphan_Buri.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Suphan_Buri.secret.md)
 

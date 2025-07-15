@@ -40,11 +40,18 @@ markerFolder: ./Lamphun/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lamphun|Lamphun]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lamphun.public|Lamphun.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lamphun.internal|Lamphun.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lamphun.protect|Lamphun.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lamphun.private|Lamphun.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lamphun.personal|Lamphun.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Lamphun.secret|Lamphun.secret]] 
+
+### #is_/same_as :: [Lamphun](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lamphun.md) 
+
+### #is_/same_as :: [Lamphun.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lamphun.public.md) 
+
+### #is_/same_as :: [Lamphun.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lamphun.internal.md) 
+
+### #is_/same_as :: [Lamphun.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lamphun.protect.md) 
+
+### #is_/same_as :: [Lamphun.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lamphun.private.md) 
+
+### #is_/same_as :: [Lamphun.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lamphun.personal.md) 
+
+### #is_/same_as :: [Lamphun.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lamphun.secret.md)
 

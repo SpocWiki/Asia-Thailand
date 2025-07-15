@@ -40,11 +40,18 @@ markerFolder: ./Maha_Sarakham/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham|Maha_Sarakham]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.public|Maha_Sarakham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.internal|Maha_Sarakham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.protect|Maha_Sarakham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.private|Maha_Sarakham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.personal|Maha_Sarakham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.secret|Maha_Sarakham.secret]] 
+
+### #is_/same_as :: [Maha_Sarakham](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Maha_Sarakham.md) 
+
+### #is_/same_as :: [Maha_Sarakham.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Maha_Sarakham.public.md) 
+
+### #is_/same_as :: [Maha_Sarakham.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Maha_Sarakham.internal.md) 
+
+### #is_/same_as :: [Maha_Sarakham.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Maha_Sarakham.protect.md) 
+
+### #is_/same_as :: [Maha_Sarakham.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Maha_Sarakham.private.md) 
+
+### #is_/same_as :: [Maha_Sarakham.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Maha_Sarakham.personal.md) 
+
+### #is_/same_as :: [Maha_Sarakham.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Maha_Sarakham.secret.md)
 

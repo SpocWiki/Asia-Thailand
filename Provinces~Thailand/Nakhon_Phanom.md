@@ -40,11 +40,18 @@ markerFolder: ./Nakhon_Phanom/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom|Nakhon_Phanom]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.public|Nakhon_Phanom.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.internal|Nakhon_Phanom.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.protect|Nakhon_Phanom.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.private|Nakhon_Phanom.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.personal|Nakhon_Phanom.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Phanom.secret|Nakhon_Phanom.secret]] 
+
+### #is_/same_as :: [Nakhon_Phanom](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Phanom.md) 
+
+### #is_/same_as :: [Nakhon_Phanom.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Phanom.public.md) 
+
+### #is_/same_as :: [Nakhon_Phanom.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Phanom.internal.md) 
+
+### #is_/same_as :: [Nakhon_Phanom.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Phanom.protect.md) 
+
+### #is_/same_as :: [Nakhon_Phanom.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Phanom.private.md) 
+
+### #is_/same_as :: [Nakhon_Phanom.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Phanom.personal.md) 
+
+### #is_/same_as :: [Nakhon_Phanom.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Phanom.secret.md)
 

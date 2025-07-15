@@ -40,11 +40,18 @@ markerFolder: ./Phra_Nakhon_Si_Ayutthaya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya|Phra_Nakhon_Si_Ayutthaya]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.public|Phra_Nakhon_Si_Ayutthaya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.internal|Phra_Nakhon_Si_Ayutthaya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.protect|Phra_Nakhon_Si_Ayutthaya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.private|Phra_Nakhon_Si_Ayutthaya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.personal|Phra_Nakhon_Si_Ayutthaya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phra_Nakhon_Si_Ayutthaya.secret|Phra_Nakhon_Si_Ayutthaya.secret]] 
+
+### #is_/same_as :: [Phra_Nakhon_Si_Ayutthaya](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phra_Nakhon_Si_Ayutthaya.md) 
+
+### #is_/same_as :: [Phra_Nakhon_Si_Ayutthaya.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phra_Nakhon_Si_Ayutthaya.public.md) 
+
+### #is_/same_as :: [Phra_Nakhon_Si_Ayutthaya.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phra_Nakhon_Si_Ayutthaya.internal.md) 
+
+### #is_/same_as :: [Phra_Nakhon_Si_Ayutthaya.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phra_Nakhon_Si_Ayutthaya.protect.md) 
+
+### #is_/same_as :: [Phra_Nakhon_Si_Ayutthaya.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phra_Nakhon_Si_Ayutthaya.private.md) 
+
+### #is_/same_as :: [Phra_Nakhon_Si_Ayutthaya.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phra_Nakhon_Si_Ayutthaya.personal.md) 
+
+### #is_/same_as :: [Phra_Nakhon_Si_Ayutthaya.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phra_Nakhon_Si_Ayutthaya.secret.md)
 

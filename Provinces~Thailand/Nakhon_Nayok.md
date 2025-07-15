@@ -40,11 +40,18 @@ markerFolder: ./Nakhon_Nayok/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Nayok|Nakhon_Nayok]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Nayok.public|Nakhon_Nayok.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Nayok.internal|Nakhon_Nayok.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Nayok.protect|Nakhon_Nayok.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Nayok.private|Nakhon_Nayok.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Nayok.personal|Nakhon_Nayok.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Nayok.secret|Nakhon_Nayok.secret]] 
+
+### #is_/same_as :: [Nakhon_Nayok](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Nayok.md) 
+
+### #is_/same_as :: [Nakhon_Nayok.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Nayok.public.md) 
+
+### #is_/same_as :: [Nakhon_Nayok.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Nayok.internal.md) 
+
+### #is_/same_as :: [Nakhon_Nayok.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Nayok.protect.md) 
+
+### #is_/same_as :: [Nakhon_Nayok.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Nayok.private.md) 
+
+### #is_/same_as :: [Nakhon_Nayok.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Nayok.personal.md) 
+
+### #is_/same_as :: [Nakhon_Nayok.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Nayok.secret.md)
 

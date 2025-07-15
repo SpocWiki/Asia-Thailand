@@ -40,11 +40,18 @@ markerFolder: ./Phuket/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phuket|Phuket]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phuket.public|Phuket.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phuket.internal|Phuket.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phuket.protect|Phuket.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phuket.private|Phuket.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phuket.personal|Phuket.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phuket.secret|Phuket.secret]] 
+
+### #is_/same_as :: [Phuket](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phuket.md) 
+
+### #is_/same_as :: [Phuket.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phuket.public.md) 
+
+### #is_/same_as :: [Phuket.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phuket.internal.md) 
+
+### #is_/same_as :: [Phuket.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phuket.protect.md) 
+
+### #is_/same_as :: [Phuket.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phuket.private.md) 
+
+### #is_/same_as :: [Phuket.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phuket.personal.md) 
+
+### #is_/same_as :: [Phuket.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phuket.secret.md)
 

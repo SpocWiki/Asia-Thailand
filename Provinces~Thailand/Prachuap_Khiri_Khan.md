@@ -40,11 +40,18 @@ markerFolder: ./Prachuap_Khiri_Khan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan|Prachuap_Khiri_Khan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.public|Prachuap_Khiri_Khan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.internal|Prachuap_Khiri_Khan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.protect|Prachuap_Khiri_Khan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.private|Prachuap_Khiri_Khan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.personal|Prachuap_Khiri_Khan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.secret|Prachuap_Khiri_Khan.secret]] 
+
+### #is_/same_as :: [Prachuap_Khiri_Khan](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachuap_Khiri_Khan.md) 
+
+### #is_/same_as :: [Prachuap_Khiri_Khan.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachuap_Khiri_Khan.public.md) 
+
+### #is_/same_as :: [Prachuap_Khiri_Khan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachuap_Khiri_Khan.internal.md) 
+
+### #is_/same_as :: [Prachuap_Khiri_Khan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachuap_Khiri_Khan.protect.md) 
+
+### #is_/same_as :: [Prachuap_Khiri_Khan.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachuap_Khiri_Khan.private.md) 
+
+### #is_/same_as :: [Prachuap_Khiri_Khan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachuap_Khiri_Khan.personal.md) 
+
+### #is_/same_as :: [Prachuap_Khiri_Khan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachuap_Khiri_Khan.secret.md)
 

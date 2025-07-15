@@ -40,11 +40,18 @@ markerFolder: ./Amnat_Charoen/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen|Amnat_Charoen]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.public|Amnat_Charoen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.internal|Amnat_Charoen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.protect|Amnat_Charoen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.private|Amnat_Charoen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.personal|Amnat_Charoen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Amnat_Charoen.secret|Amnat_Charoen.secret]] 
+
+### #is_/same_as :: [Amnat_Charoen](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.md) 
+
+### #is_/same_as :: [Amnat_Charoen.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.public.md) 
+
+### #is_/same_as :: [Amnat_Charoen.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.internal.md) 
+
+### #is_/same_as :: [Amnat_Charoen.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.protect.md) 
+
+### #is_/same_as :: [Amnat_Charoen.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.private.md) 
+
+### #is_/same_as :: [Amnat_Charoen.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.personal.md) 
+
+### #is_/same_as :: [Amnat_Charoen.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Phangnga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phangnga|Phangnga]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phangnga.public|Phangnga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phangnga.internal|Phangnga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phangnga.protect|Phangnga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phangnga.private|Phangnga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phangnga.personal|Phangnga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phangnga.secret|Phangnga.secret]] 
+
+### #is_/same_as :: [Phangnga](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phangnga.md) 
+
+### #is_/same_as :: [Phangnga.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phangnga.public.md) 
+
+### #is_/same_as :: [Phangnga.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phangnga.internal.md) 
+
+### #is_/same_as :: [Phangnga.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phangnga.protect.md) 
+
+### #is_/same_as :: [Phangnga.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phangnga.private.md) 
+
+### #is_/same_as :: [Phangnga.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phangnga.personal.md) 
+
+### #is_/same_as :: [Phangnga.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phangnga.secret.md)
 

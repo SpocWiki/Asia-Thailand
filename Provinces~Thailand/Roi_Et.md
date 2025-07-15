@@ -40,11 +40,18 @@ markerFolder: ./Roi_Et/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et|Roi_Et]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.public|Roi_Et.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.internal|Roi_Et.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.protect|Roi_Et.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.private|Roi_Et.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.personal|Roi_Et.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.secret|Roi_Et.secret]] 
+
+### #is_/same_as :: [Roi_Et](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Roi_Et.md) 
+
+### #is_/same_as :: [Roi_Et.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Roi_Et.public.md) 
+
+### #is_/same_as :: [Roi_Et.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Roi_Et.internal.md) 
+
+### #is_/same_as :: [Roi_Et.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Roi_Et.protect.md) 
+
+### #is_/same_as :: [Roi_Et.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Roi_Et.private.md) 
+
+### #is_/same_as :: [Roi_Et.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Roi_Et.personal.md) 
+
+### #is_/same_as :: [Roi_Et.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Roi_Et.secret.md)
 

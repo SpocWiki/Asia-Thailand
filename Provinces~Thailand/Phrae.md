@@ -40,11 +40,18 @@ markerFolder: ./Phrae/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phrae|Phrae]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phrae.public|Phrae.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phrae.internal|Phrae.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phrae.protect|Phrae.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phrae.private|Phrae.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phrae.personal|Phrae.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phrae.secret|Phrae.secret]] 
+
+### #is_/same_as :: [Phrae](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phrae.md) 
+
+### #is_/same_as :: [Phrae.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phrae.public.md) 
+
+### #is_/same_as :: [Phrae.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phrae.internal.md) 
+
+### #is_/same_as :: [Phrae.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phrae.protect.md) 
+
+### #is_/same_as :: [Phrae.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phrae.private.md) 
+
+### #is_/same_as :: [Phrae.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phrae.personal.md) 
+
+### #is_/same_as :: [Phrae.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phrae.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Surat_Thani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani|Surat_Thani]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.public|Surat_Thani.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.internal|Surat_Thani.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.protect|Surat_Thani.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.private|Surat_Thani.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.personal|Surat_Thani.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.secret|Surat_Thani.secret]] 
+
+### #is_/same_as :: [Surat_Thani](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surat_Thani.md) 
+
+### #is_/same_as :: [Surat_Thani.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surat_Thani.public.md) 
+
+### #is_/same_as :: [Surat_Thani.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surat_Thani.internal.md) 
+
+### #is_/same_as :: [Surat_Thani.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surat_Thani.protect.md) 
+
+### #is_/same_as :: [Surat_Thani.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surat_Thani.private.md) 
+
+### #is_/same_as :: [Surat_Thani.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surat_Thani.personal.md) 
+
+### #is_/same_as :: [Surat_Thani.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surat_Thani.secret.md)
 

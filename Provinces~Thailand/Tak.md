@@ -39,11 +39,18 @@ markerFolder: ./Tak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Tak|Tak]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Tak.public|Tak.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Tak.internal|Tak.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Tak.protect|Tak.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Tak.private|Tak.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Tak.personal|Tak.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Tak.secret|Tak.secret]] 
+
+### #is_/same_as :: [Tak](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.md) 
+
+### #is_/same_as :: [Tak.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.public.md) 
+
+### #is_/same_as :: [Tak.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.internal.md) 
+
+### #is_/same_as :: [Tak.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.protect.md) 
+
+### #is_/same_as :: [Tak.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.private.md) 
+
+### #is_/same_as :: [Tak.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.personal.md) 
+
+### #is_/same_as :: [Tak.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.secret.md)
 

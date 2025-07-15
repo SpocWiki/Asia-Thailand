@@ -40,11 +40,18 @@ markerFolder: ./Phatthalung/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phatthalung|Phatthalung]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phatthalung.public|Phatthalung.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phatthalung.internal|Phatthalung.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phatthalung.protect|Phatthalung.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phatthalung.private|Phatthalung.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phatthalung.personal|Phatthalung.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phatthalung.secret|Phatthalung.secret]] 
+
+### #is_/same_as :: [Phatthalung](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phatthalung.md) 
+
+### #is_/same_as :: [Phatthalung.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phatthalung.public.md) 
+
+### #is_/same_as :: [Phatthalung.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phatthalung.internal.md) 
+
+### #is_/same_as :: [Phatthalung.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phatthalung.protect.md) 
+
+### #is_/same_as :: [Phatthalung.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phatthalung.private.md) 
+
+### #is_/same_as :: [Phatthalung.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phatthalung.personal.md) 
+
+### #is_/same_as :: [Phatthalung.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phatthalung.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Chai_Nat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat|Chai_Nat]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.public|Chai_Nat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.internal|Chai_Nat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.protect|Chai_Nat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.private|Chai_Nat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.personal|Chai_Nat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.secret|Chai_Nat.secret]] 
+
+### #is_/same_as :: [Chai_Nat](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chai_Nat.md) 
+
+### #is_/same_as :: [Chai_Nat.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chai_Nat.public.md) 
+
+### #is_/same_as :: [Chai_Nat.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chai_Nat.internal.md) 
+
+### #is_/same_as :: [Chai_Nat.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chai_Nat.protect.md) 
+
+### #is_/same_as :: [Chai_Nat.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chai_Nat.private.md) 
+
+### #is_/same_as :: [Chai_Nat.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chai_Nat.personal.md) 
+
+### #is_/same_as :: [Chai_Nat.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chai_Nat.secret.md)
 

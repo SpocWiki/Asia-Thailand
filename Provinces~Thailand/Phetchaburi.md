@@ -40,11 +40,18 @@ markerFolder: ./Phetchaburi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi|Phetchaburi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.public|Phetchaburi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.internal|Phetchaburi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.protect|Phetchaburi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.private|Phetchaburi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.personal|Phetchaburi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.secret|Phetchaburi.secret]] 
+
+### #is_/same_as :: [Phetchaburi](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchaburi.md) 
+
+### #is_/same_as :: [Phetchaburi.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchaburi.public.md) 
+
+### #is_/same_as :: [Phetchaburi.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchaburi.internal.md) 
+
+### #is_/same_as :: [Phetchaburi.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchaburi.protect.md) 
+
+### #is_/same_as :: [Phetchaburi.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchaburi.private.md) 
+
+### #is_/same_as :: [Phetchaburi.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchaburi.personal.md) 
+
+### #is_/same_as :: [Phetchaburi.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phetchaburi.secret.md)
 

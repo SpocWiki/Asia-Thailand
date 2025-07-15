@@ -40,11 +40,18 @@ markerFolder: ./Chon_Buri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri|Chon_Buri]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.public|Chon_Buri.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.internal|Chon_Buri.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.protect|Chon_Buri.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.private|Chon_Buri.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.personal|Chon_Buri.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.secret|Chon_Buri.secret]] 
+
+### #is_/same_as :: [Chon_Buri](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chon_Buri.md) 
+
+### #is_/same_as :: [Chon_Buri.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chon_Buri.public.md) 
+
+### #is_/same_as :: [Chon_Buri.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chon_Buri.internal.md) 
+
+### #is_/same_as :: [Chon_Buri.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chon_Buri.protect.md) 
+
+### #is_/same_as :: [Chon_Buri.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chon_Buri.private.md) 
+
+### #is_/same_as :: [Chon_Buri.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chon_Buri.personal.md) 
+
+### #is_/same_as :: [Chon_Buri.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chon_Buri.secret.md)
 

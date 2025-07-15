@@ -40,11 +40,18 @@ markerFolder: ./Sukhothai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sukhothai|Sukhothai]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sukhothai.public|Sukhothai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sukhothai.internal|Sukhothai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sukhothai.protect|Sukhothai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sukhothai.private|Sukhothai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sukhothai.personal|Sukhothai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sukhothai.secret|Sukhothai.secret]] 
+
+### #is_/same_as :: [Sukhothai](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sukhothai.md) 
+
+### #is_/same_as :: [Sukhothai.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sukhothai.public.md) 
+
+### #is_/same_as :: [Sukhothai.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sukhothai.internal.md) 
+
+### #is_/same_as :: [Sukhothai.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sukhothai.protect.md) 
+
+### #is_/same_as :: [Sukhothai.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sukhothai.private.md) 
+
+### #is_/same_as :: [Sukhothai.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sukhothai.personal.md) 
+
+### #is_/same_as :: [Sukhothai.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sukhothai.secret.md)
 

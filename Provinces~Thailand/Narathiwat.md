@@ -40,11 +40,18 @@ markerFolder: ./Narathiwat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat|Narathiwat]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.public|Narathiwat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.internal|Narathiwat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.protect|Narathiwat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.private|Narathiwat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.personal|Narathiwat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.secret|Narathiwat.secret]] 
+
+### #is_/same_as :: [Narathiwat](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Narathiwat.md) 
+
+### #is_/same_as :: [Narathiwat.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Narathiwat.public.md) 
+
+### #is_/same_as :: [Narathiwat.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Narathiwat.internal.md) 
+
+### #is_/same_as :: [Narathiwat.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Narathiwat.protect.md) 
+
+### #is_/same_as :: [Narathiwat.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Narathiwat.private.md) 
+
+### #is_/same_as :: [Narathiwat.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Narathiwat.personal.md) 
+
+### #is_/same_as :: [Narathiwat.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Narathiwat.secret.md)
 

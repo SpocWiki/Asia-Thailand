@@ -40,11 +40,18 @@ markerFolder: ./Samut_Sakhon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Sakhon|Samut_Sakhon]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Sakhon.public|Samut_Sakhon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Sakhon.internal|Samut_Sakhon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Sakhon.protect|Samut_Sakhon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Sakhon.private|Samut_Sakhon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Sakhon.personal|Samut_Sakhon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Sakhon.secret|Samut_Sakhon.secret]] 
+
+### #is_/same_as :: [Samut_Sakhon](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.md) 
+
+### #is_/same_as :: [Samut_Sakhon.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.public.md) 
+
+### #is_/same_as :: [Samut_Sakhon.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.internal.md) 
+
+### #is_/same_as :: [Samut_Sakhon.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.protect.md) 
+
+### #is_/same_as :: [Samut_Sakhon.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.private.md) 
+
+### #is_/same_as :: [Samut_Sakhon.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.personal.md) 
+
+### #is_/same_as :: [Samut_Sakhon.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Loei/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Loei|Loei]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Loei.public|Loei.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Loei.internal|Loei.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Loei.protect|Loei.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Loei.private|Loei.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Loei.personal|Loei.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Loei.secret|Loei.secret]] 
+
+### #is_/same_as :: [Loei](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Loei.md) 
+
+### #is_/same_as :: [Loei.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Loei.public.md) 
+
+### #is_/same_as :: [Loei.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Loei.internal.md) 
+
+### #is_/same_as :: [Loei.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Loei.protect.md) 
+
+### #is_/same_as :: [Loei.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Loei.private.md) 
+
+### #is_/same_as :: [Loei.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Loei.personal.md) 
+
+### #is_/same_as :: [Loei.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Loei.secret.md)
 

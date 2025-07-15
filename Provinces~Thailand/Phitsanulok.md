@@ -40,11 +40,18 @@ markerFolder: ./Phitsanulok/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phitsanulok|Phitsanulok]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phitsanulok.public|Phitsanulok.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phitsanulok.internal|Phitsanulok.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phitsanulok.protect|Phitsanulok.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phitsanulok.private|Phitsanulok.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phitsanulok.personal|Phitsanulok.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phitsanulok.secret|Phitsanulok.secret]] 
+
+### #is_/same_as :: [Phitsanulok](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.md) 
+
+### #is_/same_as :: [Phitsanulok.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.public.md) 
+
+### #is_/same_as :: [Phitsanulok.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.internal.md) 
+
+### #is_/same_as :: [Phitsanulok.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.protect.md) 
+
+### #is_/same_as :: [Phitsanulok.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.private.md) 
+
+### #is_/same_as :: [Phitsanulok.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.personal.md) 
+
+### #is_/same_as :: [Phitsanulok.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.secret.md)
 

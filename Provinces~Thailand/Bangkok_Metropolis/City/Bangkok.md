@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 13.73
 - 100.5
@@ -164,10 +164,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/City/Bangkok|Bangkok]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/City/Bangkok.public|Bangkok.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/City/Bangkok.internal|Bangkok.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/City/Bangkok.protect|Bangkok.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/City/Bangkok.private|Bangkok.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/City/Bangkok.personal|Bangkok.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/City/Bangkok.secret|Bangkok.secret]] 
+
+### #is_/same_as :: [Bangkok](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis/City/Bangkok.md) 
+
+### #is_/same_as :: [Bangkok.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis/City/Bangkok.public.md) 
+
+### #is_/same_as :: [Bangkok.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis/City/Bangkok.internal.md) 
+
+### #is_/same_as :: [Bangkok.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis/City/Bangkok.protect.md) 
+
+### #is_/same_as :: [Bangkok.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis/City/Bangkok.private.md) 
+
+### #is_/same_as :: [Bangkok.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis/City/Bangkok.personal.md) 
+
+### #is_/same_as :: [Bangkok.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Bangkok_Metropolis/City/Bangkok.secret.md)
+

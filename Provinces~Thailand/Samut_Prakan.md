@@ -40,11 +40,18 @@ markerFolder: ./Samut_Prakan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Prakan|Samut_Prakan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Prakan.public|Samut_Prakan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Prakan.internal|Samut_Prakan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Prakan.protect|Samut_Prakan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Prakan.private|Samut_Prakan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Prakan.personal|Samut_Prakan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Prakan.secret|Samut_Prakan.secret]] 
+
+### #is_/same_as :: [Samut_Prakan](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.md) 
+
+### #is_/same_as :: [Samut_Prakan.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.public.md) 
+
+### #is_/same_as :: [Samut_Prakan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.internal.md) 
+
+### #is_/same_as :: [Samut_Prakan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.protect.md) 
+
+### #is_/same_as :: [Samut_Prakan.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.private.md) 
+
+### #is_/same_as :: [Samut_Prakan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.personal.md) 
+
+### #is_/same_as :: [Samut_Prakan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.secret.md)
 

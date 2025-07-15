@@ -40,11 +40,18 @@ markerFolder: ./Sing_Buri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri|Sing_Buri]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.public|Sing_Buri.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.internal|Sing_Buri.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.protect|Sing_Buri.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.private|Sing_Buri.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.personal|Sing_Buri.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.secret|Sing_Buri.secret]] 
+
+### #is_/same_as :: [Sing_Buri](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sing_Buri.md) 
+
+### #is_/same_as :: [Sing_Buri.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sing_Buri.public.md) 
+
+### #is_/same_as :: [Sing_Buri.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sing_Buri.internal.md) 
+
+### #is_/same_as :: [Sing_Buri.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sing_Buri.protect.md) 
+
+### #is_/same_as :: [Sing_Buri.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sing_Buri.private.md) 
+
+### #is_/same_as :: [Sing_Buri.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sing_Buri.personal.md) 
+
+### #is_/same_as :: [Sing_Buri.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sing_Buri.secret.md)
 

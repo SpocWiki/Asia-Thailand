@@ -130,10 +130,4 @@ Capital :: [[Bangkok]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Thailand|Thailand]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand.internal|Thailand.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand.protect|Thailand.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand.private|Thailand.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand.personal|Thailand.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand.secret|Thailand.secret]] 
+
