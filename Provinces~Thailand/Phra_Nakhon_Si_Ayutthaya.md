@@ -1,30 +1,29 @@
 ---
-location: [ 14.4 , 100.5 ] 
+location:
+  - 14.4
+  - 100.5
 type: geo-Region
 title: Phra_Nakhon_Si_Ayutthaya
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Phra_Nakhon_Si_Ayutthaya
-
+  - Phra_Nakhon_Si_Ayutthaya
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Phra_Nakhon_Si_Ayutthaya
