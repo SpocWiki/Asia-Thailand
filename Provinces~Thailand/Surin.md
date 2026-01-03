@@ -40,17 +40,17 @@ markerFolder: ./Surin/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Surin](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin|Surin]] 
 
-### #is_/same_as :: [Surin.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin.public|Surin.public]] 
 
-### #is_/same_as :: [Surin.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin.internal|Surin.internal]] 
 
-### #is_/same_as :: [Surin.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin.protect|Surin.protect]] 
 
-### #is_/same_as :: [Surin.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin.private|Surin.private]] 
 
-### #is_/same_as :: [Surin.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin.personal|Surin.personal]] 
 
-### #is_/same_as :: [Surin.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Surin.secret|Surin.secret]] 
 

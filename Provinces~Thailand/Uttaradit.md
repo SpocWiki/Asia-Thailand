@@ -40,17 +40,17 @@ markerFolder: ./Uttaradit/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uttaradit](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit|Uttaradit]] 
 
-### #is_/same_as :: [Uttaradit.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit.public|Uttaradit.public]] 
 
-### #is_/same_as :: [Uttaradit.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit.internal|Uttaradit.internal]] 
 
-### #is_/same_as :: [Uttaradit.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit.protect|Uttaradit.protect]] 
 
-### #is_/same_as :: [Uttaradit.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit.private|Uttaradit.private]] 
 
-### #is_/same_as :: [Uttaradit.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit.personal|Uttaradit.personal]] 
 
-### #is_/same_as :: [Uttaradit.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uttaradit.secret|Uttaradit.secret]] 
 

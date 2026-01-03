@@ -40,17 +40,17 @@ markerFolder: ./Pathum_Thani/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pathum_Thani](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani|Pathum_Thani]] 
 
-### #is_/same_as :: [Pathum_Thani.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani.public|Pathum_Thani.public]] 
 
-### #is_/same_as :: [Pathum_Thani.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani.internal|Pathum_Thani.internal]] 
 
-### #is_/same_as :: [Pathum_Thani.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani.protect|Pathum_Thani.protect]] 
 
-### #is_/same_as :: [Pathum_Thani.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani.private|Pathum_Thani.private]] 
 
-### #is_/same_as :: [Pathum_Thani.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani.personal|Pathum_Thani.personal]] 
 
-### #is_/same_as :: [Pathum_Thani.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Pathum_Thani.secret|Pathum_Thani.secret]] 
 

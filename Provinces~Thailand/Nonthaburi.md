@@ -40,17 +40,17 @@ markerFolder: ./Nonthaburi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonthaburi](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi|Nonthaburi]] 
 
-### #is_/same_as :: [Nonthaburi.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi.public|Nonthaburi.public]] 
 
-### #is_/same_as :: [Nonthaburi.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi.internal|Nonthaburi.internal]] 
 
-### #is_/same_as :: [Nonthaburi.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi.protect|Nonthaburi.protect]] 
 
-### #is_/same_as :: [Nonthaburi.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi.private|Nonthaburi.private]] 
 
-### #is_/same_as :: [Nonthaburi.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi.personal|Nonthaburi.personal]] 
 
-### #is_/same_as :: [Nonthaburi.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nonthaburi.secret|Nonthaburi.secret]] 
 

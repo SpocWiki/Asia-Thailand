@@ -40,17 +40,17 @@ markerFolder: ./Krabi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Krabi](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi|Krabi]] 
 
-### #is_/same_as :: [Krabi.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi.public|Krabi.public]] 
 
-### #is_/same_as :: [Krabi.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi.internal|Krabi.internal]] 
 
-### #is_/same_as :: [Krabi.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi.protect|Krabi.protect]] 
 
-### #is_/same_as :: [Krabi.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi.private|Krabi.private]] 
 
-### #is_/same_as :: [Krabi.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi.personal|Krabi.personal]] 
 
-### #is_/same_as :: [Krabi.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Krabi.secret|Krabi.secret]] 
 

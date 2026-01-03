@@ -40,17 +40,17 @@ markerFolder: ./Si_Sa_Ket/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Si_Sa_Ket](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket|Si_Sa_Ket]] 
 
-### #is_/same_as :: [Si_Sa_Ket.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket.public|Si_Sa_Ket.public]] 
 
-### #is_/same_as :: [Si_Sa_Ket.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket.internal|Si_Sa_Ket.internal]] 
 
-### #is_/same_as :: [Si_Sa_Ket.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket.protect|Si_Sa_Ket.protect]] 
 
-### #is_/same_as :: [Si_Sa_Ket.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket.private|Si_Sa_Ket.private]] 
 
-### #is_/same_as :: [Si_Sa_Ket.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket.personal|Si_Sa_Ket.personal]] 
 
-### #is_/same_as :: [Si_Sa_Ket.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Si_Sa_Ket.secret|Si_Sa_Ket.secret]] 
 

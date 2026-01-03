@@ -40,17 +40,17 @@ markerFolder: ./Udon_Thani/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Udon_Thani](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani|Udon_Thani]] 
 
-### #is_/same_as :: [Udon_Thani.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani.public|Udon_Thani.public]] 
 
-### #is_/same_as :: [Udon_Thani.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani.internal|Udon_Thani.internal]] 
 
-### #is_/same_as :: [Udon_Thani.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani.protect|Udon_Thani.protect]] 
 
-### #is_/same_as :: [Udon_Thani.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani.private|Udon_Thani.private]] 
 
-### #is_/same_as :: [Udon_Thani.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani.personal|Udon_Thani.personal]] 
 
-### #is_/same_as :: [Udon_Thani.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Udon_Thani.secret|Udon_Thani.secret]] 
 

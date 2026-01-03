@@ -40,17 +40,17 @@ markerFolder: ./Buri_Ram/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buri_Ram](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram|Buri_Ram]] 
 
-### #is_/same_as :: [Buri_Ram.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram.public|Buri_Ram.public]] 
 
-### #is_/same_as :: [Buri_Ram.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram.internal|Buri_Ram.internal]] 
 
-### #is_/same_as :: [Buri_Ram.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram.protect|Buri_Ram.protect]] 
 
-### #is_/same_as :: [Buri_Ram.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram.private|Buri_Ram.private]] 
 
-### #is_/same_as :: [Buri_Ram.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram.personal|Buri_Ram.personal]] 
 
-### #is_/same_as :: [Buri_Ram.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Buri_Ram.secret|Buri_Ram.secret]] 
 

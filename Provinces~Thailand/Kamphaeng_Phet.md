@@ -40,17 +40,17 @@ markerFolder: ./Kamphaeng_Phet/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kamphaeng_Phet](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet|Kamphaeng_Phet]] 
 
-### #is_/same_as :: [Kamphaeng_Phet.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet.public|Kamphaeng_Phet.public]] 
 
-### #is_/same_as :: [Kamphaeng_Phet.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet.internal|Kamphaeng_Phet.internal]] 
 
-### #is_/same_as :: [Kamphaeng_Phet.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet.protect|Kamphaeng_Phet.protect]] 
 
-### #is_/same_as :: [Kamphaeng_Phet.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet.private|Kamphaeng_Phet.private]] 
 
-### #is_/same_as :: [Kamphaeng_Phet.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet.personal|Kamphaeng_Phet.personal]] 
 
-### #is_/same_as :: [Kamphaeng_Phet.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kamphaeng_Phet.secret|Kamphaeng_Phet.secret]] 
 

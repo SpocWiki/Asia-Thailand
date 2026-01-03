@@ -40,17 +40,17 @@ markerFolder: ./Kalasin/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kalasin](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin|Kalasin]] 
 
-### #is_/same_as :: [Kalasin.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin.public|Kalasin.public]] 
 
-### #is_/same_as :: [Kalasin.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin.internal|Kalasin.internal]] 
 
-### #is_/same_as :: [Kalasin.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin.protect|Kalasin.protect]] 
 
-### #is_/same_as :: [Kalasin.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin.private|Kalasin.private]] 
 
-### #is_/same_as :: [Kalasin.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin.personal|Kalasin.personal]] 
 
-### #is_/same_as :: [Kalasin.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Kalasin.secret|Kalasin.secret]] 
 

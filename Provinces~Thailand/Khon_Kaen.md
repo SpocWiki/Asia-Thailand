@@ -40,17 +40,17 @@ markerFolder: ./Khon_Kaen/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khon_Kaen](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen|Khon_Kaen]] 
 
-### #is_/same_as :: [Khon_Kaen.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen.public|Khon_Kaen.public]] 
 
-### #is_/same_as :: [Khon_Kaen.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen.internal|Khon_Kaen.internal]] 
 
-### #is_/same_as :: [Khon_Kaen.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen.protect|Khon_Kaen.protect]] 
 
-### #is_/same_as :: [Khon_Kaen.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen.private|Khon_Kaen.private]] 
 
-### #is_/same_as :: [Khon_Kaen.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen.personal|Khon_Kaen.personal]] 
 
-### #is_/same_as :: [Khon_Kaen.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Khon_Kaen.secret|Khon_Kaen.secret]] 
 

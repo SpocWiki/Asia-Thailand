@@ -40,17 +40,17 @@ markerFolder: ./Chiang_Rai/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chiang_Rai](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai|Chiang_Rai]] 
 
-### #is_/same_as :: [Chiang_Rai.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai.public|Chiang_Rai.public]] 
 
-### #is_/same_as :: [Chiang_Rai.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai.internal|Chiang_Rai.internal]] 
 
-### #is_/same_as :: [Chiang_Rai.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai.protect|Chiang_Rai.protect]] 
 
-### #is_/same_as :: [Chiang_Rai.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai.private|Chiang_Rai.private]] 
 
-### #is_/same_as :: [Chiang_Rai.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai.personal|Chiang_Rai.personal]] 
 
-### #is_/same_as :: [Chiang_Rai.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chiang_Rai.secret|Chiang_Rai.secret]] 
 

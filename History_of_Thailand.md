@@ -32,3 +32,20 @@ Commons_category: History of Thailand
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Thailand) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/History_of_Thailand|History_of_Thailand]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/History_of_Thailand.public|History_of_Thailand.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/History_of_Thailand.internal|History_of_Thailand.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/History_of_Thailand.protect|History_of_Thailand.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/History_of_Thailand.private|History_of_Thailand.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/History_of_Thailand.personal|History_of_Thailand.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/History_of_Thailand.secret|History_of_Thailand.secret]] 
+

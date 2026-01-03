@@ -40,17 +40,17 @@ markerFolder: ./Prachin_Buri/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prachin_Buri](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri|Prachin_Buri]] 
 
-### #is_/same_as :: [Prachin_Buri.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri.public|Prachin_Buri.public]] 
 
-### #is_/same_as :: [Prachin_Buri.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri.internal|Prachin_Buri.internal]] 
 
-### #is_/same_as :: [Prachin_Buri.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri.protect|Prachin_Buri.protect]] 
 
-### #is_/same_as :: [Prachin_Buri.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri.private|Prachin_Buri.private]] 
 
-### #is_/same_as :: [Prachin_Buri.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri.personal|Prachin_Buri.personal]] 
 
-### #is_/same_as :: [Prachin_Buri.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Prachin_Buri.secret|Prachin_Buri.secret]] 
 

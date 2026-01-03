@@ -39,17 +39,17 @@ markerFolder: ./Tak/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tak](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak|Tak]] 
 
-### #is_/same_as :: [Tak.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.public|Tak.public]] 
 
-### #is_/same_as :: [Tak.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.internal|Tak.internal]] 
 
-### #is_/same_as :: [Tak.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.protect|Tak.protect]] 
 
-### #is_/same_as :: [Tak.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.private|Tak.private]] 
 
-### #is_/same_as :: [Tak.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.personal|Tak.personal]] 
 
-### #is_/same_as :: [Tak.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Tak.secret|Tak.secret]] 
 

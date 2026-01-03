@@ -40,17 +40,17 @@ markerFolder: ./Uthai_Thani/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uthai_Thani](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani|Uthai_Thani]] 
 
-### #is_/same_as :: [Uthai_Thani.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.public|Uthai_Thani.public]] 
 
-### #is_/same_as :: [Uthai_Thani.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.internal|Uthai_Thani.internal]] 
 
-### #is_/same_as :: [Uthai_Thani.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.protect|Uthai_Thani.protect]] 
 
-### #is_/same_as :: [Uthai_Thani.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.private|Uthai_Thani.private]] 
 
-### #is_/same_as :: [Uthai_Thani.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.personal|Uthai_Thani.personal]] 
 
-### #is_/same_as :: [Uthai_Thani.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Uthai_Thani.secret|Uthai_Thani.secret]] 
 

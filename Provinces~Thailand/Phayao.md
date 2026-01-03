@@ -40,17 +40,17 @@ markerFolder: ./Phayao/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phayao](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao|Phayao]] 
 
-### #is_/same_as :: [Phayao.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao.public|Phayao.public]] 
 
-### #is_/same_as :: [Phayao.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao.internal|Phayao.internal]] 
 
-### #is_/same_as :: [Phayao.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao.protect|Phayao.protect]] 
 
-### #is_/same_as :: [Phayao.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao.private|Phayao.private]] 
 
-### #is_/same_as :: [Phayao.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao.personal|Phayao.personal]] 
 
-### #is_/same_as :: [Phayao.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phayao.secret|Phayao.secret]] 
 

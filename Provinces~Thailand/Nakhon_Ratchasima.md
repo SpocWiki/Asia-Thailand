@@ -40,17 +40,17 @@ markerFolder: ./Nakhon_Ratchasima/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nakhon_Ratchasima](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima|Nakhon_Ratchasima]] 
 
-### #is_/same_as :: [Nakhon_Ratchasima.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima.public|Nakhon_Ratchasima.public]] 
 
-### #is_/same_as :: [Nakhon_Ratchasima.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima.internal|Nakhon_Ratchasima.internal]] 
 
-### #is_/same_as :: [Nakhon_Ratchasima.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima.protect|Nakhon_Ratchasima.protect]] 
 
-### #is_/same_as :: [Nakhon_Ratchasima.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima.private|Nakhon_Ratchasima.private]] 
 
-### #is_/same_as :: [Nakhon_Ratchasima.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima.personal|Nakhon_Ratchasima.personal]] 
 
-### #is_/same_as :: [Nakhon_Ratchasima.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Ratchasima.secret|Nakhon_Ratchasima.secret]] 
 

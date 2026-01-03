@@ -40,17 +40,17 @@ markerFolder: ./Phitsanulok/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phitsanulok](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok|Phitsanulok]] 
 
-### #is_/same_as :: [Phitsanulok.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.public|Phitsanulok.public]] 
 
-### #is_/same_as :: [Phitsanulok.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.internal|Phitsanulok.internal]] 
 
-### #is_/same_as :: [Phitsanulok.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.protect|Phitsanulok.protect]] 
 
-### #is_/same_as :: [Phitsanulok.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.private|Phitsanulok.private]] 
 
-### #is_/same_as :: [Phitsanulok.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.personal|Phitsanulok.personal]] 
 
-### #is_/same_as :: [Phitsanulok.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Phitsanulok.secret|Phitsanulok.secret]] 
 

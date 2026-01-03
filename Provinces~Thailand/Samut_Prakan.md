@@ -40,17 +40,17 @@ markerFolder: ./Samut_Prakan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Samut_Prakan](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan|Samut_Prakan]] 
 
-### #is_/same_as :: [Samut_Prakan.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.public|Samut_Prakan.public]] 
 
-### #is_/same_as :: [Samut_Prakan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.internal|Samut_Prakan.internal]] 
 
-### #is_/same_as :: [Samut_Prakan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.protect|Samut_Prakan.protect]] 
 
-### #is_/same_as :: [Samut_Prakan.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.private|Samut_Prakan.private]] 
 
-### #is_/same_as :: [Samut_Prakan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.personal|Samut_Prakan.personal]] 
 
-### #is_/same_as :: [Samut_Prakan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Prakan.secret|Samut_Prakan.secret]] 
 

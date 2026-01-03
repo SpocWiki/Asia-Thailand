@@ -40,17 +40,17 @@ markerFolder: ./Nakhon_Si_Thammarat/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nakhon_Si_Thammarat](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat|Nakhon_Si_Thammarat]] 
 
-### #is_/same_as :: [Nakhon_Si_Thammarat.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat.public|Nakhon_Si_Thammarat.public]] 
 
-### #is_/same_as :: [Nakhon_Si_Thammarat.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat.internal|Nakhon_Si_Thammarat.internal]] 
 
-### #is_/same_as :: [Nakhon_Si_Thammarat.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat.protect|Nakhon_Si_Thammarat.protect]] 
 
-### #is_/same_as :: [Nakhon_Si_Thammarat.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat.private|Nakhon_Si_Thammarat.private]] 
 
-### #is_/same_as :: [Nakhon_Si_Thammarat.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat.personal|Nakhon_Si_Thammarat.personal]] 
 
-### #is_/same_as :: [Nakhon_Si_Thammarat.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nakhon_Si_Thammarat.secret|Nakhon_Si_Thammarat.secret]] 
 

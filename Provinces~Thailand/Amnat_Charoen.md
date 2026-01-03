@@ -40,17 +40,17 @@ markerFolder: ./Amnat_Charoen/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amnat_Charoen](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen|Amnat_Charoen]] 
 
-### #is_/same_as :: [Amnat_Charoen.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.public|Amnat_Charoen.public]] 
 
-### #is_/same_as :: [Amnat_Charoen.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.internal|Amnat_Charoen.internal]] 
 
-### #is_/same_as :: [Amnat_Charoen.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.protect|Amnat_Charoen.protect]] 
 
-### #is_/same_as :: [Amnat_Charoen.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.private|Amnat_Charoen.private]] 
 
-### #is_/same_as :: [Amnat_Charoen.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.personal|Amnat_Charoen.personal]] 
 
-### #is_/same_as :: [Amnat_Charoen.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Amnat_Charoen.secret|Amnat_Charoen.secret]] 
 

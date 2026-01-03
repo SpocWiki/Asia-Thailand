@@ -40,17 +40,17 @@ markerFolder: ./Mae_Hong_Son/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mae_Hong_Son](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son|Mae_Hong_Son]] 
 
-### #is_/same_as :: [Mae_Hong_Son.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son.public|Mae_Hong_Son.public]] 
 
-### #is_/same_as :: [Mae_Hong_Son.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son.internal|Mae_Hong_Son.internal]] 
 
-### #is_/same_as :: [Mae_Hong_Son.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son.protect|Mae_Hong_Son.protect]] 
 
-### #is_/same_as :: [Mae_Hong_Son.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son.private|Mae_Hong_Son.private]] 
 
-### #is_/same_as :: [Mae_Hong_Son.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son.personal|Mae_Hong_Son.personal]] 
 
-### #is_/same_as :: [Mae_Hong_Son.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Mae_Hong_Son.secret|Mae_Hong_Son.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Yala/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yala](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala|Yala]] 
 
-### #is_/same_as :: [Yala.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala.public|Yala.public]] 
 
-### #is_/same_as :: [Yala.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala.internal|Yala.internal]] 
 
-### #is_/same_as :: [Yala.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala.protect|Yala.protect]] 
 
-### #is_/same_as :: [Yala.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala.private|Yala.private]] 
 
-### #is_/same_as :: [Yala.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala.personal|Yala.personal]] 
 
-### #is_/same_as :: [Yala.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Yala.secret|Yala.secret]] 
 

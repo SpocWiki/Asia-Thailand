@@ -40,17 +40,17 @@ markerFolder: ./Samut_Sakhon/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Samut_Sakhon](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon|Samut_Sakhon]] 
 
-### #is_/same_as :: [Samut_Sakhon.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.public|Samut_Sakhon.public]] 
 
-### #is_/same_as :: [Samut_Sakhon.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.internal|Samut_Sakhon.internal]] 
 
-### #is_/same_as :: [Samut_Sakhon.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.protect|Samut_Sakhon.protect]] 
 
-### #is_/same_as :: [Samut_Sakhon.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.private|Samut_Sakhon.private]] 
 
-### #is_/same_as :: [Samut_Sakhon.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.personal|Samut_Sakhon.personal]] 
 
-### #is_/same_as :: [Samut_Sakhon.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Samut_Sakhon.secret|Samut_Sakhon.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Ratchaburi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ratchaburi](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi|Ratchaburi]] 
 
-### #is_/same_as :: [Ratchaburi.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi.public|Ratchaburi.public]] 
 
-### #is_/same_as :: [Ratchaburi.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi.internal|Ratchaburi.internal]] 
 
-### #is_/same_as :: [Ratchaburi.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi.protect|Ratchaburi.protect]] 
 
-### #is_/same_as :: [Ratchaburi.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi.private|Ratchaburi.private]] 
 
-### #is_/same_as :: [Ratchaburi.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi.personal|Ratchaburi.personal]] 
 
-### #is_/same_as :: [Ratchaburi.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Ratchaburi.secret|Ratchaburi.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Chaiyaphum/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chaiyaphum](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum|Chaiyaphum]] 
 
-### #is_/same_as :: [Chaiyaphum.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum.public|Chaiyaphum.public]] 
 
-### #is_/same_as :: [Chaiyaphum.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum.internal|Chaiyaphum.internal]] 
 
-### #is_/same_as :: [Chaiyaphum.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum.protect|Chaiyaphum.protect]] 
 
-### #is_/same_as :: [Chaiyaphum.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum.private|Chaiyaphum.private]] 
 
-### #is_/same_as :: [Chaiyaphum.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum.personal|Chaiyaphum.personal]] 
 
-### #is_/same_as :: [Chaiyaphum.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Chaiyaphum.secret|Chaiyaphum.secret]] 
 

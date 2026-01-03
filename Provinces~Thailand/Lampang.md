@@ -40,17 +40,17 @@ markerFolder: ./Lampang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lampang](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang|Lampang]] 
 
-### #is_/same_as :: [Lampang.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang.public|Lampang.public]] 
 
-### #is_/same_as :: [Lampang.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang.internal|Lampang.internal]] 
 
-### #is_/same_as :: [Lampang.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang.protect|Lampang.protect]] 
 
-### #is_/same_as :: [Lampang.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang.private|Lampang.private]] 
 
-### #is_/same_as :: [Lampang.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang.personal|Lampang.personal]] 
 
-### #is_/same_as :: [Lampang.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Lampang.secret|Lampang.secret]] 
 

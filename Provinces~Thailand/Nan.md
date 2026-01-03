@@ -39,17 +39,17 @@ markerFolder: ./Nan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nan](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan|Nan]] 
 
-### #is_/same_as :: [Nan.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan.public|Nan.public]] 
 
-### #is_/same_as :: [Nan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan.internal|Nan.internal]] 
 
-### #is_/same_as :: [Nan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan.protect|Nan.protect]] 
 
-### #is_/same_as :: [Nan.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan.private|Nan.private]] 
 
-### #is_/same_as :: [Nan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan.personal|Nan.personal]] 
 
-### #is_/same_as :: [Nan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nan.secret|Nan.secret]] 
 

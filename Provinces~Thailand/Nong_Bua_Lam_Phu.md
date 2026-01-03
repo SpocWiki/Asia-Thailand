@@ -40,17 +40,17 @@ markerFolder: ./Nong_Bua_Lam_Phu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nong_Bua_Lam_Phu](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu|Nong_Bua_Lam_Phu]] 
 
-### #is_/same_as :: [Nong_Bua_Lam_Phu.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu.public|Nong_Bua_Lam_Phu.public]] 
 
-### #is_/same_as :: [Nong_Bua_Lam_Phu.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu.internal|Nong_Bua_Lam_Phu.internal]] 
 
-### #is_/same_as :: [Nong_Bua_Lam_Phu.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu.protect|Nong_Bua_Lam_Phu.protect]] 
 
-### #is_/same_as :: [Nong_Bua_Lam_Phu.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu.private|Nong_Bua_Lam_Phu.private]] 
 
-### #is_/same_as :: [Nong_Bua_Lam_Phu.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu.personal|Nong_Bua_Lam_Phu.personal]] 
 
-### #is_/same_as :: [Nong_Bua_Lam_Phu.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Nong_Bua_Lam_Phu.secret|Nong_Bua_Lam_Phu.secret]] 
 

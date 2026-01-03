@@ -40,17 +40,17 @@ markerFolder: ./Saraburi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saraburi](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi|Saraburi]] 
 
-### #is_/same_as :: [Saraburi.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi.public|Saraburi.public]] 
 
-### #is_/same_as :: [Saraburi.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi.internal|Saraburi.internal]] 
 
-### #is_/same_as :: [Saraburi.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi.protect|Saraburi.protect]] 
 
-### #is_/same_as :: [Saraburi.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi.private|Saraburi.private]] 
 
-### #is_/same_as :: [Saraburi.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi.personal|Saraburi.personal]] 
 
-### #is_/same_as :: [Saraburi.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Saraburi.secret|Saraburi.secret]] 
 

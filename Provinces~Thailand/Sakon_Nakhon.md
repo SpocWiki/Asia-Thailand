@@ -40,17 +40,17 @@ markerFolder: ./Sakon_Nakhon/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sakon_Nakhon](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon|Sakon_Nakhon]] 
 
-### #is_/same_as :: [Sakon_Nakhon.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.public|Sakon_Nakhon.public]] 
 
-### #is_/same_as :: [Sakon_Nakhon.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.internal|Sakon_Nakhon.internal]] 
 
-### #is_/same_as :: [Sakon_Nakhon.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.protect|Sakon_Nakhon.protect]] 
 
-### #is_/same_as :: [Sakon_Nakhon.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.private|Sakon_Nakhon.private]] 
 
-### #is_/same_as :: [Sakon_Nakhon.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.personal|Sakon_Nakhon.personal]] 
 
-### #is_/same_as :: [Sakon_Nakhon.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/Provinces~Thailand/Sakon_Nakhon.secret|Sakon_Nakhon.secret]] 
 
