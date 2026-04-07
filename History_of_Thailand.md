@@ -1,10 +1,10 @@
 ---
 aliases:
 has_id_wikidata: Q379391
-subclass_of: "[[_Standards/WikiData/WD~history_of_Asia,627531]]"
-part_of: "[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Thailand,869]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Asia,627531|WD~history_of_Asia,627531]]"
+part_of: "[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514|WD~history_of_Southeast_Asia,2227514]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wat%20phra%20sri%20sanpetch%20%28Temple%29%2C%20Ayutthaya%2C%20Thailand.jpg
 Commons_category: History of Thailand
 ---
