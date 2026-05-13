@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sing_Buri/
 markerFolder: ./Sing_Buri/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

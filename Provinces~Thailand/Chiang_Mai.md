@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Chiang_Mai/
 markerFolder: ./Chiang_Mai/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

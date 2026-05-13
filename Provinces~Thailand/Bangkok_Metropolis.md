@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bangkok_Metropolis/
 markerFolder: ./Bangkok_Metropolis/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

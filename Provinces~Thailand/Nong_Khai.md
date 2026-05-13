@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Nong_Khai/
 markerFolder: ./Nong_Khai/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Nakhon_Ratchasima/
 markerFolder: ./Nakhon_Ratchasima/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

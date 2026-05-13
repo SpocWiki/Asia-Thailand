@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Khon_Kaen/
 markerFolder: ./Khon_Kaen/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

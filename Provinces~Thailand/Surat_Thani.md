@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Surat_Thani/
 markerFolder: ./Surat_Thani/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

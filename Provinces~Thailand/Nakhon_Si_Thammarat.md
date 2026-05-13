@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Nakhon_Si_Thammarat/
 markerFolder: ./Nakhon_Si_Thammarat/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Amnat_Charoen/
 markerFolder: ./Amnat_Charoen/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

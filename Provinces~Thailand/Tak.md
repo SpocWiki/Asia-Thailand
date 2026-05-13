@@ -34,7 +34,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Tak/
 markerFolder: ./Tak/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

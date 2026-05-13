@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Buri_Ram/
 markerFolder: ./Buri_Ram/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

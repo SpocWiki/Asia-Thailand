@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kanchanaburi/
 markerFolder: ./Kanchanaburi/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

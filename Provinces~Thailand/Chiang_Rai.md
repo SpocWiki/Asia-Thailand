@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Chiang_Rai/
 markerFolder: ./Chiang_Rai/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

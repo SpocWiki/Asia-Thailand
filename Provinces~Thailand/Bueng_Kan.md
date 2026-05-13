@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bueng_Kan/
 markerFolder: ./Bueng_Kan/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
