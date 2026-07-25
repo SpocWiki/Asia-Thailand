@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 泰王国
 dv_UNTERM_French_Formal: le Royaume de Thaïlande
 dv_UNTERM_Russian: Таиланд
 dv_UNTERM_Russian_Formal: Королевство Таиланд
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Thailand]]'
 dv_Sub-region_Name: '[[South-eastern Asia]]'
 dv_Region: 142
@@ -52,7 +52,7 @@ dv_ISO2: TH
 dv_ISO3: THA
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Thailand,869|WD~Thailand,869]]'
+  - '[[../../../../../WikiData/WD~Thailand,869|WD~Thailand,869]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand|Thailand]]'
   - '[[/_public/Earth/Continent/Asia/Asia~South~East/Thailand.public|Thailand.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand.internal|Thailand.internal]]'
@@ -382,16 +382,16 @@ dv_has_:
 dv_has_name_de: Thailand
 dv_Area-Total: 513115
 dv_Area-Land: 510890
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: T
 dv_Capital: '[[Bangkok]]'
 dv_Alcohol-l: 7.1
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 100.5
 dv_has_place_latitude: 13.73
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Thailand,869|WD~Thailand,869]]'
+- '[[../../../../../WikiData/WD~Thailand,869|WD~Thailand,869]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand|Thailand]]'
 - '[[/_public/Earth/Continent/Asia/Asia~South~East/Thailand.public|Thailand.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand.internal|Thailand.internal]]'
@@ -729,7 +729,7 @@ demonym:
 - Tayänan
 described_at_URL: http://68k.news/index.php?section=nation&loc=TH&lang=TH
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
@@ -1091,7 +1091,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Thailand/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1111,7 +1111,7 @@ defaultZoom:
 
 ```leaflet
 id: Thailand_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
