@@ -1168,17 +1168,17 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand|Thailand]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand/ReadMe|ReadMe]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand.public|Thailand.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand/ReadMe.public|ReadMe.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand.internal|Thailand.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand/ReadMe.internal|ReadMe.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand.protect|Thailand.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand/ReadMe.protect|ReadMe.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand.private|Thailand.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand/ReadMe.private|ReadMe.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand.personal|Thailand.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand/ReadMe.personal|ReadMe.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand.secret|Thailand.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand/ReadMe.secret|ReadMe.secret]] 
 
